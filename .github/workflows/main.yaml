@@ -5,7 +5,7 @@ on:
 
 env:
   REGISTRY: illialev
-  IMAGE_NAME: server-test
+  IMAGE_NAME: step-final
 
 jobs:
 
