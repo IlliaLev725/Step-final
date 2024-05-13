@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend-server
-        image: illialev/step-final:v0.0.1
+        image: illialev/step-final:v0.0.2
         ports:
         - containerPort: 5000  # Change this port if your server listens on a different port
 
